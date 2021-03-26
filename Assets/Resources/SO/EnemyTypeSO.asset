@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4588061637d2464986bfd7808c02c90, type: 3}
+  m_Name: EnemyTypeSO
+  m_EditorClassIdentifier: 
+  enemyTypeSOItems:
+  - enemyType: 1
+    idleSprite: {fileID: 21300000, guid: 432ea00708aca4b4e848db9ea459f79d, type: 3}
+    spawnObject: {fileID: 2928193121731155128, guid: 5a8928430b4be9f42a5c7a7957a6c07e,
+      type: 3}
+  - enemyType: 2
+    idleSprite: {fileID: 21300000, guid: 9f7c73249ee01754a9532be3e2a2504d, type: 3}
+    spawnObject: {fileID: 1939863263528625431, guid: 02cc60174aa2caa468ff4e1469bcd10e,
+      type: 3}
+  - enemyType: 3
+    idleSprite: {fileID: 21300000, guid: 0f728b0f9c42a1d419d49d8d0bd1f7c2, type: 3}
+    spawnObject: {fileID: 4883746451126709466, guid: f96c3dc726dd1c544b94b859c2d55d9f,
+      type: 3}
+  - enemyType: 4
+    idleSprite: {fileID: 21300000, guid: a96e543c0839d7a4dab887cdf85a3a71, type: 3}
+    spawnObject: {fileID: 1158979853211423356, guid: 096d01e378aa0af48b797d48dc5b1bbc,
+      type: 3}
+  - enemyType: 5
+    idleSprite: {fileID: 21300000, guid: d94df5c6c06a46548a6014c9d9dfd12a, type: 3}
+    spawnObject: {fileID: 1481188249621628915, guid: 6711d578ff72de1469ae6a60e6ebdfc1,
+      type: 3}
+  - enemyType: 6
+    idleSprite: {fileID: 21300000, guid: d94df5c6c06a46548a6014c9d9dfd12a, type: 3}
+    spawnObject: {fileID: 1481188249621628915, guid: 6711d578ff72de1469ae6a60e6ebdfc1,
+      type: 3}
+  - enemyType: 7
+    idleSprite: {fileID: 21300000, guid: 0218e7096099e234ebb95893f20c480f, type: 3}
+    spawnObject: {fileID: 5986627894348021035, guid: 804a24baf75c48947911de735ba2f506,
+      type: 3}
+  - enemyType: 8
+    idleSprite: {fileID: 21300000, guid: d94df5c6c06a46548a6014c9d9dfd12a, type: 3}
+    spawnObject: {fileID: 1481188249621628915, guid: 6711d578ff72de1469ae6a60e6ebdfc1,
+      type: 3}
+  - enemyType: 9
+    idleSprite: {fileID: 21300000, guid: d94df5c6c06a46548a6014c9d9dfd12a, type: 3}
+    spawnObject: {fileID: 1481188249621628915, guid: 6711d578ff72de1469ae6a60e6ebdfc1,
+      type: 3}
+  - enemyType: 10
+    idleSprite: {fileID: 21300000, guid: d94df5c6c06a46548a6014c9d9dfd12a, type: 3}
+    spawnObject: {fileID: 1481188249621628915, guid: 6711d578ff72de1469ae6a60e6ebdfc1,
+      type: 3}

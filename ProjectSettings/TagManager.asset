@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Pot
+  - Enemy
+  - Card
+  - Bullet
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Tile
+  - Pot
+  - Card
+  - Weapon
+  - Enemy
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2736412071
+    locked: 0
+  - name: Tile
+    uniqueID: 3502351645
+    locked: 0
+  - name: Pot
+    uniqueID: 3781000269
+    locked: 0
+  - name: Card
+    uniqueID: 3777877905
+    locked: 0
+  - name: Weapon and Enemy
+    uniqueID: 2382314021
+    locked: 0
